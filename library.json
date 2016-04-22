@@ -1,0 +1,13 @@
+{
+    "name": "LedControl",
+    "keywords": "7segments, Display",
+    "author":"Eberhard Fahle <e.fahle@wayoda.org>",
+    "description": "A library for the MAX7219 and the MAX7221 Led display drivers",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/paolocavagnolo/LedControl.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "atmelavr"
+}
